@@ -47,7 +47,7 @@ def banner():
     os.system("clear")
     os.system("cat banner/banner.txt")
     print("")
-    print("Ghost Framework " + helper.version + " (Modified By Valentin Lobstein)")
+    print("Ghost Framework " + helper.version + " (Modified By Valentin Lobstein+trhacknon)")
     print("----------------------------------------------------")
     print("")
 
