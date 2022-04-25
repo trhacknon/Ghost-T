@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91632566-45bf3780-e9ea-11ea-9b85-1ee4f451ae39.png" alt="logo" height="250px"></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Chocapikk-Valentin%20Lobstein-yellow">
+  <img src="https://img.shields.io/badge/Chocapikk-Valentin%20Lobstein/trhacknon-yellow">
   <img src="https://img.shields.io/badge/version-v6.0-red">
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blueviolet.svg">
