@@ -17,7 +17,7 @@ class GhostModule:
         self.args = 1
 
     def run(self, cmd_data):
-        cmd_data = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        cmd_data = "https://m.youtube.com/watch?v=Rdns1BOgC-0"
         self.ghost.send_command("shell", "\"am start -a android.intent.action.VIEW -d "+cmd_data+"\"", False)
         self.ghost.send_command("shell", "media volume --stream 3 --set 100", False)
         print(self.badges.G + "🎶 Never Gonna Give You Up, Never Gonna Let You Down 🎶")
