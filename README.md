@@ -88,7 +88,7 @@ Ghost Framework has the ability to access device screen
 and control it remotely using mouse and keyboard.
 ```
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Chocapikk/Ghost-Framework/main/banner/help2.png" alt="ghost_2" height="540px"></h3>
+<h3 align="center"><img src="https://github.com/trhacknon/Ghost-T/blob/main/banner/IMG_20220426_013413.jpg" alt="ghost_2" height="540px"></h3>
 
 ***
 
